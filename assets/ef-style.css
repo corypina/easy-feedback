@@ -1,0 +1,43 @@
+/* Form CSS */
+
+#ef-form {
+	background-color: #f2f2f2;
+	margin-top: 20px;
+}
+
+form#ef-form-proper,
+#ef-result {
+	padding: 1.5em 1.5em;
+}
+
+#ef-form-proper label {
+    display: block;
+}
+
+#ef-form-proper input[type="text"] {
+    width: 100%;
+}
+
+#ef-form-proper h3 {
+	margin: 0 0 10px 0;
+}
+
+#ef-form-proper div.ef-input {
+    margin-bottom: 1em;
+}
+
+div.ef-input input[type="text"] {
+    margin-top: 5px;
+}
+
+#ef-optional {
+    font-size: .8em;
+}
+
+.ef-close {
+	text-align:right;
+}
+
+#ef-result {
+	display: none;
+}

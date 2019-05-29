@@ -1,0 +1,11 @@
+div.ef_settings_desc {
+    margin-top: 1em;
+}
+
+.ef_settings_desc p {
+    margin: 0 0 5px 0;
+    font-size: 1.1em;
+}
+p.description {
+    max-width: 700px;
+}
