@@ -31,7 +31,7 @@ The form is styled very minimally so that it (hopefully) blends in with your act
 
 The default form language was inspired by the fine folks who run the web at [California State University Monterey Bay](http://csumb.edu), who were in turn inspired by the [government of the United Kingdom](http://gov.uk).
 
-== Installation ==
+## Installation
 - Upload the easy-feedback folder to the /wp-content/plugins/ directory.
 - Activate the plugin through the ‘Plugins’ menu in WordPress.
 
